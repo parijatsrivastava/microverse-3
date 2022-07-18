@@ -1,0 +1,12 @@
+
+@media (min-width: 540px) {
+    #welcome-section {
+      font-size: 60%;
+    }
+  }
+  
+  #welcome-section {
+    height: 100vh;
+  }
+  
+  
